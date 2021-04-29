@@ -54,6 +54,7 @@ class _HomeViewState extends State<HomeView> with BaseState {
     );
   }
 
+// Deneme yazısı
   FloatingActionButton buildFloatingActionButton() {
     return FloatingActionButton(
       onPressed: _changeValue,
